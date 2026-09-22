@@ -1,0 +1,6 @@
+{
+  "name": "Sneaker Service Price Estimator & Lead Closer",
+  "description": "Single-page service price estimator and WhatsApp order dispatcher for custom sneaker cleaning and restoration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
